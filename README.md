@@ -7,8 +7,8 @@
   <i>A beginner-friendly language for interactive interfaces: from the first line of code to mini web apps in the browser.</i>
 </p>
 
-![screenshot](uis_scrin_1.jpg)
-
+![screenshot1](uis_scrin_1.jpg)
+![screenshot2](uis_scrin_2.jpg)
 **Версия / Version:** 1.0 · **Редакция самоучителя / Guide edition:** октябрь 2026 / October 2026
 
 **Языки / Languages:** [Русский](#russian) · [English](#english)
