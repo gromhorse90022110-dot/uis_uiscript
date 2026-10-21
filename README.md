@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 # UIscript — среда разработки и самоучитель / UIscript — IDE and Self-Study Guide
-
+![logotype](uis_1photo.jpg)
 <p align="center">
   <b>Язык интерактивных интерфейсов для начинающих: от первой строки до мини-приложений в браузере.</b><br>
   <i>A beginner-friendly language for interactive interfaces: from the first line of code to mini web apps in the browser.</i>
